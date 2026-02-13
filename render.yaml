@@ -1,0 +1,7 @@
+
+services:
+  - type: web
+    name: nike-ai-dashboard
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn app:app

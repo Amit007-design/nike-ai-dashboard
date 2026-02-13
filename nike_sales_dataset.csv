@@ -1,0 +1,1001 @@
+Order_ID,Product_Category,Price,Discount,Customer_Age,Gender,Region,Purchase_Date,Quantity,Revenue
+1001,Shoes,192,32,52,Female,South America,2023-04-13,2,261.12
+1002,Shoes,274,2,42,Female,Asia,2024-03-11,1,268.52
+1003,Shoes,148,18,20,Female,South America,2023-09-28,2,242.72000000000003
+1004,Accessories,75,22,55,Female,North America,2023-04-17,4,234.0
+1005,Accessories,57,28,34,Female,Europe,2023-03-13,1,41.04
+1006,Apparel,149,29,29,Female,Europe,2024-12-01,1,105.78999999999999
+1007,Accessories,289,38,41,Male,Europe,2023-01-21,1,179.18
+1008,Accessories,271,24,46,Male,North America,2024-09-06,1,205.96
+1009,Apparel,136,36,42,Male,North America,2023-05-02,2,174.08
+1010,Accessories,91,7,53,Male,North America,2024-04-11,3,253.89
+1011,Shoes,221,15,43,Male,North America,2023-08-03,3,563.55
+1012,Shoes,63,7,55,Female,North America,2023-11-27,4,234.35999999999999
+1013,Apparel,127,0,18,Female,South America,2024-04-03,3,381.0
+1014,Apparel,51,4,37,Female,North America,2023-03-29,3,146.88
+1015,Apparel,168,2,45,Female,North America,2024-01-08,3,493.92
+1016,Shoes,86,0,33,Female,North America,2023-04-10,3,258.0
+1017,Accessories,118,3,34,Female,North America,2024-10-25,4,457.84
+1018,Shoes,215,39,57,Male,Europe,2023-05-11,2,262.3
+1019,Apparel,286,34,45,Female,North America,2024-10-23,1,188.76
+1020,Accessories,90,31,29,Female,South America,2023-11-05,3,186.29999999999998
+1021,Accessories,111,33,44,Female,South America,2023-12-10,2,148.73999999999998
+1022,Shoes,295,24,59,Female,South America,2024-05-06,3,672.6
+1023,Apparel,109,9,47,Male,Asia,2024-02-18,3,297.57
+1024,Shoes,174,20,58,Male,Europe,2024-01-21,1,139.20000000000002
+1025,Accessories,160,38,51,Female,North America,2023-07-11,1,99.2
+1026,Shoes,63,26,54,Male,Asia,2023-10-04,1,46.62
+1027,Shoes,297,26,23,Male,North America,2023-06-10,3,659.34
+1028,Apparel,280,1,24,Female,Asia,2024-04-04,3,831.6
+1029,Apparel,266,12,49,Female,Asia,2023-11-10,3,702.24
+1030,Accessories,133,8,49,Female,South America,2023-01-22,1,122.36
+1031,Shoes,179,35,42,Female,South America,2023-09-10,4,465.40000000000003
+1032,Shoes,280,21,50,Female,Asia,2024-07-14,2,442.40000000000003
+1033,Shoes,119,25,24,Male,South America,2024-04-19,4,357.0
+1034,Accessories,194,11,29,Female,Asia,2023-02-28,3,517.98
+1035,Accessories,172,16,33,Female,Europe,2024-05-25,3,433.44
+1036,Apparel,138,13,33,Female,South America,2024-11-12,4,480.24
+1037,Apparel,298,13,53,Male,South America,2024-04-20,3,777.78
+1038,Apparel,77,33,30,Female,South America,2024-11-30,2,103.17999999999999
+1039,Shoes,115,19,24,Female,Europe,2023-07-09,3,279.45000000000005
+1040,Shoes,212,10,53,Female,Asia,2024-11-17,2,381.6
+1041,Apparel,278,15,26,Male,North America,2024-07-16,4,945.1999999999999
+1042,Shoes,54,30,49,Female,South America,2024-07-20,4,151.2
+1043,Apparel,242,5,28,Female,Asia,2023-09-01,3,689.6999999999999
+1044,Accessories,217,18,25,Female,Europe,2024-05-19,2,355.88000000000005
+1045,Apparel,253,36,50,Male,North America,2023-05-11,3,485.76
+1046,Accessories,233,3,40,Female,South America,2024-04-29,1,226.01
+1047,Shoes,213,3,42,Female,Europe,2024-10-08,1,206.60999999999999
+1048,Apparel,94,19,25,Female,Europe,2023-01-21,1,76.14
+1049,Shoes,200,9,39,Male,North America,2023-06-16,1,182.0
+1050,Accessories,96,23,21,Female,Asia,2023-10-01,3,221.76
+1051,Accessories,80,34,57,Female,South America,2024-01-23,1,52.8
+1052,Accessories,188,25,20,Female,South America,2024-08-23,2,282.0
+1053,Shoes,59,36,46,Male,Asia,2023-11-12,4,151.04
+1054,Shoes,244,37,58,Male,Asia,2023-01-14,4,614.88
+1055,Shoes,167,20,46,Female,Asia,2023-08-30,1,133.6
+1056,Shoes,63,39,51,Male,North America,2023-12-12,1,38.43
+1057,Accessories,129,38,51,Male,North America,2024-07-18,1,79.98
+1058,Accessories,251,20,45,Male,South America,2023-12-06,3,602.4
+1059,Apparel,142,9,30,Female,North America,2023-04-02,4,516.88
+1060,Apparel,59,37,32,Female,Europe,2024-01-02,1,37.17
+1061,Shoes,125,3,40,Male,South America,2024-03-30,2,242.5
+1062,Accessories,143,19,43,Male,North America,2024-03-03,1,115.83000000000001
+1063,Accessories,154,16,21,Male,Asia,2024-05-23,4,517.4399999999999
+1064,Accessories,50,6,43,Female,Europe,2023-02-04,1,47.0
+1065,Apparel,182,3,57,Female,Asia,2023-07-25,4,706.16
+1066,Apparel,69,28,26,Male,South America,2023-03-22,1,49.68
+1067,Accessories,57,13,22,Male,Asia,2024-07-15,2,99.17999999999999
+1068,Accessories,220,2,49,Male,North America,2024-01-23,1,215.6
+1069,Accessories,253,23,37,Male,North America,2023-01-02,2,389.62
+1070,Apparel,50,36,28,Female,South America,2024-01-25,2,64.0
+1071,Accessories,106,15,32,Male,Asia,2024-07-19,1,90.1
+1072,Accessories,113,3,49,Female,South America,2023-04-16,2,219.22
+1073,Shoes,167,23,45,Male,Asia,2024-04-21,3,385.77
+1074,Shoes,261,33,39,Male,Europe,2024-12-03,1,174.86999999999998
+1075,Apparel,77,29,58,Male,North America,2024-02-06,1,54.669999999999995
+1076,Accessories,170,17,34,Male,South America,2024-12-30,2,282.2
+1077,Accessories,156,18,43,Male,Europe,2024-07-09,2,255.84000000000003
+1078,Shoes,214,30,24,Female,Europe,2023-06-11,1,149.79999999999998
+1079,Apparel,224,18,59,Male,South America,2023-07-21,3,551.0400000000001
+1080,Shoes,278,18,43,Male,South America,2023-09-27,2,455.92
+1081,Shoes,253,21,42,Male,Europe,2023-09-28,2,399.74
+1082,Shoes,214,23,27,Female,Asia,2024-03-31,4,659.12
+1083,Shoes,98,11,36,Female,Europe,2024-04-06,3,261.66
+1084,Accessories,290,29,28,Female,South America,2024-12-27,3,617.6999999999999
+1085,Accessories,169,37,30,Female,Europe,2023-09-09,1,106.47
+1086,Shoes,93,30,25,Male,Asia,2024-12-02,3,195.29999999999998
+1087,Apparel,105,35,57,Male,North America,2023-10-23,1,68.25
+1088,Apparel,205,18,21,Male,North America,2024-12-25,4,672.4000000000001
+1089,Apparel,160,35,48,Female,Europe,2024-12-20,3,312.0
+1090,Apparel,256,29,45,Male,Asia,2023-12-04,2,363.52
+1091,Shoes,183,32,28,Male,North America,2023-02-22,4,497.75999999999993
+1092,Accessories,157,17,18,Female,Europe,2023-08-05,1,130.31
+1093,Apparel,238,27,55,Female,Europe,2023-07-07,4,694.96
+1094,Shoes,197,10,41,Female,Asia,2024-01-15,1,177.3
+1095,Apparel,163,32,48,Male,South America,2024-05-07,4,443.35999999999996
+1096,Apparel,127,16,58,Male,Europe,2023-02-10,1,106.67999999999999
+1097,Shoes,179,5,43,Female,South America,2023-06-06,3,510.15
+1098,Accessories,250,3,22,Male,South America,2023-01-15,2,485.0
+1099,Accessories,86,19,37,Female,North America,2023-03-06,1,69.66000000000001
+1100,Shoes,69,26,58,Female,South America,2024-06-04,4,204.24
+1101,Accessories,75,14,28,Male,Asia,2023-12-10,1,64.5
+1102,Shoes,78,5,50,Female,North America,2023-05-09,1,74.1
+1103,Shoes,50,13,55,Female,North America,2024-10-09,1,43.5
+1104,Shoes,168,10,44,Female,North America,2024-04-16,4,604.8000000000001
+1105,Accessories,84,38,51,Male,Europe,2023-03-04,2,104.16
+1106,Shoes,247,8,32,Female,Europe,2023-05-19,3,681.72
+1107,Apparel,278,25,49,Female,South America,2024-05-13,2,417.0
+1108,Accessories,294,15,38,Female,North America,2024-08-15,1,249.9
+1109,Accessories,108,4,22,Female,North America,2024-01-27,4,414.71999999999997
+1110,Accessories,118,9,23,Female,Asia,2024-11-05,2,214.76000000000002
+1111,Accessories,210,2,55,Female,South America,2024-02-23,1,205.79999999999998
+1112,Apparel,290,12,39,Female,Asia,2023-10-16,3,765.6
+1113,Accessories,228,29,35,Male,South America,2024-01-14,3,485.64
+1114,Accessories,255,5,31,Male,South America,2024-05-04,3,726.75
+1115,Shoes,61,16,27,Female,Europe,2023-08-19,1,51.239999999999995
+1116,Accessories,283,18,30,Male,Europe,2023-02-10,4,928.2400000000001
+1117,Apparel,69,34,48,Male,Asia,2023-01-28,2,91.07999999999998
+1118,Apparel,230,25,47,Female,South America,2023-05-15,3,517.5
+1119,Apparel,291,4,20,Male,North America,2023-07-20,1,279.36
+1120,Apparel,265,28,47,Female,Europe,2023-02-02,1,190.79999999999998
+1121,Accessories,92,36,23,Female,North America,2023-02-17,2,117.76
+1122,Accessories,175,19,46,Female,Asia,2024-05-17,3,425.25
+1123,Apparel,275,20,25,Female,Europe,2024-02-11,1,220.0
+1124,Apparel,266,9,50,Female,Europe,2024-07-27,2,484.12
+1125,Accessories,99,4,34,Male,South America,2024-12-28,4,380.15999999999997
+1126,Apparel,78,35,28,Female,Asia,2023-04-09,4,202.8
+1127,Shoes,234,5,30,Male,South America,2024-11-14,4,889.1999999999999
+1128,Apparel,88,25,28,Female,Europe,2024-12-26,3,198.0
+1129,Apparel,272,3,48,Female,Asia,2024-06-30,2,527.68
+1130,Shoes,233,38,45,Female,Europe,2024-09-04,2,288.92
+1131,Shoes,288,38,23,Male,Asia,2024-04-06,1,178.56
+1132,Accessories,220,34,58,Female,Europe,2024-10-04,1,145.2
+1133,Accessories,227,0,33,Female,North America,2023-01-05,1,227.0
+1134,Shoes,200,23,21,Female,North America,2023-08-06,2,308.0
+1135,Shoes,221,35,52,Female,South America,2024-05-17,1,143.65
+1136,Accessories,87,5,43,Male,North America,2024-02-02,2,165.29999999999998
+1137,Apparel,133,30,29,Female,Europe,2024-01-28,2,186.2
+1138,Shoes,200,19,28,Male,Europe,2023-07-26,4,648.0
+1139,Accessories,177,23,54,Female,North America,2023-01-15,1,136.29
+1140,Apparel,175,24,42,Male,South America,2024-07-07,4,532.0
+1141,Shoes,94,35,35,Male,North America,2024-04-05,3,183.3
+1142,Apparel,101,20,36,Female,Asia,2024-11-21,3,242.4
+1143,Accessories,129,29,40,Female,Asia,2024-07-28,3,274.77
+1144,Shoes,227,23,55,Male,Asia,2023-08-29,2,349.58
+1145,Apparel,283,29,35,Female,North America,2024-07-17,2,401.85999999999996
+1146,Shoes,173,21,43,Female,North America,2023-04-06,2,273.34000000000003
+1147,Apparel,168,27,23,Female,North America,2024-04-29,1,122.64
+1148,Accessories,57,6,21,Male,Asia,2024-02-11,4,214.32
+1149,Accessories,291,34,46,Female,South America,2023-08-19,2,384.11999999999995
+1150,Shoes,134,27,51,Female,Europe,2024-10-16,4,391.28
+1151,Apparel,178,13,34,Female,North America,2023-06-20,4,619.4399999999999
+1152,Shoes,296,9,33,Male,South America,2024-06-24,4,1077.44
+1153,Shoes,57,15,19,Female,Europe,2023-02-05,1,48.449999999999996
+1154,Apparel,206,15,51,Male,Europe,2024-06-08,1,175.1
+1155,Apparel,145,30,25,Female,Europe,2023-06-09,3,304.5
+1156,Apparel,151,24,30,Male,South America,2024-11-29,3,344.28000000000003
+1157,Accessories,54,12,59,Female,South America,2023-08-31,4,190.08
+1158,Shoes,288,5,25,Female,Asia,2023-03-27,3,820.8
+1159,Shoes,135,8,47,Male,South America,2024-07-31,4,496.8
+1160,Accessories,224,35,49,Male,South America,2024-11-12,1,145.6
+1161,Apparel,83,19,53,Male,South America,2024-07-10,1,67.23
+1162,Accessories,242,17,47,Female,Europe,2024-07-27,1,200.85999999999999
+1163,Accessories,104,20,18,Female,North America,2024-10-07,2,166.4
+1164,Accessories,168,3,56,Female,Asia,2023-01-28,4,651.84
+1165,Shoes,267,32,34,Female,North America,2024-09-11,1,181.55999999999997
+1166,Accessories,220,26,37,Male,North America,2024-07-09,4,651.2
+1167,Shoes,251,6,41,Female,South America,2023-12-06,3,707.8199999999999
+1168,Shoes,207,5,39,Female,Asia,2023-11-27,3,589.9499999999999
+1169,Shoes,163,14,46,Female,North America,2024-10-01,1,140.18
+1170,Apparel,259,17,39,Female,North America,2024-05-20,4,859.88
+1171,Shoes,194,31,26,Female,Asia,2023-12-14,1,133.85999999999999
+1172,Shoes,75,10,54,Female,South America,2024-04-17,3,202.5
+1173,Apparel,185,19,27,Female,North America,2023-08-19,1,149.85000000000002
+1174,Shoes,96,23,53,Male,Europe,2023-07-09,4,295.68
+1175,Accessories,281,14,54,Female,North America,2023-08-13,3,724.98
+1176,Accessories,162,6,45,Female,Europe,2024-01-20,2,304.56
+1177,Shoes,125,20,45,Female,South America,2024-01-12,3,300.0
+1178,Apparel,268,25,59,Female,North America,2023-10-10,2,402.0
+1179,Accessories,121,13,38,Male,Asia,2024-09-24,1,105.27
+1180,Apparel,138,36,41,Male,Asia,2024-09-19,1,88.32000000000001
+1181,Apparel,95,20,59,Male,North America,2023-09-16,4,304.0
+1182,Accessories,245,17,57,Male,South America,2023-12-25,2,406.7
+1183,Apparel,82,4,19,Male,South America,2024-12-10,1,78.72
+1184,Accessories,50,2,25,Male,Asia,2024-03-31,2,98.0
+1185,Apparel,196,22,44,Female,North America,2024-02-15,1,152.88
+1186,Accessories,80,25,39,Male,South America,2024-10-10,3,180.0
+1187,Shoes,257,36,54,Male,Asia,2023-11-14,1,164.48
+1188,Accessories,191,23,44,Female,Europe,2024-11-07,4,588.28
+1189,Accessories,102,18,46,Male,North America,2023-08-13,3,250.92000000000002
+1190,Accessories,97,24,20,Female,Europe,2023-08-22,4,294.88
+1191,Accessories,118,20,30,Female,Europe,2024-11-14,3,283.2
+1192,Apparel,154,11,27,Male,South America,2024-10-25,2,274.12
+1193,Shoes,139,32,53,Female,South America,2024-01-09,4,378.08
+1194,Accessories,239,3,26,Male,South America,2024-11-02,1,231.82999999999998
+1195,Apparel,269,6,44,Male,North America,2024-08-30,2,505.71999999999997
+1196,Shoes,243,21,51,Female,Europe,2024-04-16,1,191.97
+1197,Shoes,291,32,18,Female,North America,2023-08-21,3,593.64
+1198,Shoes,241,16,49,Male,South America,2024-11-22,3,607.3199999999999
+1199,Shoes,247,23,42,Female,Europe,2023-04-23,1,190.19
+1200,Accessories,112,33,46,Female,North America,2024-05-11,1,75.03999999999999
+1201,Accessories,122,27,24,Male,North America,2024-03-17,2,178.12
+1202,Apparel,210,38,20,Male,Asia,2024-07-17,1,130.2
+1203,Apparel,218,21,37,Female,North America,2023-09-25,4,688.88
+1204,Apparel,138,16,37,Male,South America,2024-05-24,4,463.68
+1205,Shoes,225,33,47,Male,North America,2024-01-21,1,150.74999999999997
+1206,Shoes,62,5,52,Male,Europe,2024-01-22,4,235.6
+1207,Accessories,122,5,52,Male,North America,2023-04-23,1,115.89999999999999
+1208,Shoes,294,33,56,Male,Asia,2024-09-04,2,393.96
+1209,Shoes,126,0,44,Male,Europe,2024-09-16,4,504.0
+1210,Shoes,208,9,43,Male,Europe,2023-03-22,4,757.12
+1211,Apparel,282,20,31,Female,Asia,2024-11-29,1,225.60000000000002
+1212,Apparel,252,4,34,Male,South America,2023-04-23,4,967.68
+1213,Accessories,117,1,35,Female,Europe,2023-01-02,3,347.49
+1214,Shoes,147,21,46,Female,South America,2024-10-03,2,232.26000000000002
+1215,Shoes,174,1,37,Female,Europe,2023-08-08,2,344.52
+1216,Accessories,151,9,44,Male,Europe,2024-07-19,4,549.64
+1217,Shoes,287,33,35,Male,South America,2023-08-13,4,769.16
+1218,Shoes,181,15,21,Female,Europe,2024-01-20,3,461.55
+1219,Apparel,151,38,18,Male,South America,2024-02-07,3,280.86
+1220,Accessories,68,21,18,Female,Asia,2024-09-29,4,214.88
+1221,Accessories,247,11,43,Male,South America,2023-05-10,4,879.32
+1222,Accessories,275,23,37,Male,Asia,2023-02-22,3,635.25
+1223,Accessories,131,39,40,Female,Europe,2024-11-14,1,79.91
+1224,Apparel,190,37,27,Female,South America,2024-12-30,3,359.1
+1225,Apparel,282,9,28,Female,Europe,2024-11-02,1,256.62
+1226,Shoes,72,34,58,Male,South America,2024-12-10,2,95.03999999999999
+1227,Shoes,132,31,58,Female,Asia,2024-02-20,2,182.16
+1228,Shoes,158,6,22,Male,Asia,2023-09-04,3,445.56
+1229,Shoes,124,20,18,Male,South America,2024-03-14,1,99.2
+1230,Apparel,178,19,34,Male,Asia,2023-07-22,3,432.54
+1231,Accessories,137,25,39,Female,Europe,2023-07-03,3,308.25
+1232,Apparel,103,3,51,Female,Europe,2023-05-03,1,99.91
+1233,Shoes,248,21,58,Female,North America,2024-02-05,3,587.76
+1234,Apparel,138,14,46,Male,Asia,2023-10-21,2,237.35999999999999
+1235,Accessories,262,39,21,Male,Europe,2023-10-07,4,639.28
+1236,Accessories,192,20,22,Female,South America,2024-09-01,4,614.4000000000001
+1237,Apparel,114,14,28,Male,Asia,2023-07-17,3,294.12
+1238,Apparel,125,21,38,Male,Europe,2024-05-25,1,98.75
+1239,Apparel,299,27,52,Female,Asia,2023-05-24,1,218.26999999999998
+1240,Shoes,248,13,29,Female,South America,2024-08-31,2,431.52
+1241,Apparel,192,26,43,Female,Europe,2023-07-20,1,142.07999999999998
+1242,Apparel,198,39,36,Male,North America,2023-05-04,1,120.78
+1243,Apparel,196,27,24,Male,North America,2023-07-06,2,286.15999999999997
+1244,Accessories,109,25,24,Male,Asia,2023-11-22,3,245.25
+1245,Accessories,142,1,43,Male,South America,2024-04-08,4,562.32
+1246,Shoes,266,24,57,Male,Europe,2023-12-15,2,404.32
+1247,Shoes,210,2,22,Female,South America,2024-10-21,3,617.4
+1248,Accessories,98,7,38,Male,Europe,2024-02-07,2,182.28
+1249,Accessories,273,32,31,Male,Asia,2023-12-12,3,556.92
+1250,Accessories,290,34,21,Male,Europe,2024-05-25,2,382.79999999999995
+1251,Apparel,84,5,40,Female,South America,2023-05-27,3,239.39999999999998
+1252,Apparel,221,38,59,Female,South America,2023-05-28,2,274.04
+1253,Accessories,151,22,37,Female,Asia,2024-12-11,3,353.34000000000003
+1254,Apparel,267,24,32,Male,South America,2024-05-03,2,405.84000000000003
+1255,Apparel,60,18,46,Female,Europe,2024-10-01,4,196.8
+1256,Shoes,148,4,25,Female,Asia,2024-07-04,4,568.3199999999999
+1257,Accessories,249,10,58,Female,Europe,2023-12-04,1,224.1
+1258,Accessories,159,11,36,Male,South America,2024-10-02,3,424.53000000000003
+1259,Apparel,255,9,56,Female,Asia,2024-04-17,2,464.1
+1260,Accessories,123,7,45,Male,Europe,2023-05-31,3,343.16999999999996
+1261,Shoes,243,23,44,Male,South America,2024-02-19,4,748.44
+1262,Shoes,223,27,21,Female,South America,2023-10-25,3,488.37
+1263,Shoes,58,35,32,Male,North America,2024-09-02,2,75.4
+1264,Accessories,52,36,52,Female,South America,2023-09-20,3,99.84
+1265,Accessories,134,20,54,Male,Europe,2023-05-24,2,214.4
+1266,Accessories,75,7,18,Female,Asia,2023-12-12,4,279.0
+1267,Accessories,121,8,20,Female,North America,2024-09-15,4,445.28000000000003
+1268,Accessories,97,14,41,Female,South America,2024-07-25,4,333.68
+1269,Shoes,243,39,44,Male,South America,2023-01-02,1,148.23
+1270,Apparel,247,17,57,Female,South America,2023-10-31,4,820.04
+1271,Shoes,205,19,53,Male,Europe,2023-09-11,3,498.15000000000003
+1272,Accessories,166,5,51,Female,North America,2024-10-13,1,157.7
+1273,Shoes,270,11,46,Male,Europe,2024-03-28,4,961.2
+1274,Accessories,203,1,41,Male,North America,2023-02-06,3,602.91
+1275,Accessories,202,6,41,Female,Asia,2023-06-09,3,569.64
+1276,Shoes,61,15,59,Female,Europe,2023-01-09,3,155.54999999999998
+1277,Accessories,182,2,21,Female,Europe,2023-08-21,2,356.71999999999997
+1278,Apparel,275,2,20,Female,Asia,2023-04-09,1,269.5
+1279,Accessories,97,26,51,Female,North America,2024-10-20,3,215.34
+1280,Apparel,86,39,40,Male,South America,2023-07-27,2,104.92
+1281,Apparel,256,37,40,Female,Asia,2023-05-11,4,645.12
+1282,Accessories,93,32,22,Female,South America,2024-02-08,3,189.71999999999997
+1283,Shoes,277,27,48,Male,South America,2023-06-01,2,404.42
+1284,Apparel,64,0,58,Female,Asia,2023-02-23,3,192.0
+1285,Shoes,92,7,23,Female,North America,2023-04-30,1,85.55999999999999
+1286,Apparel,225,36,54,Male,South America,2024-11-03,1,144.0
+1287,Accessories,136,31,27,Female,Asia,2024-09-19,4,375.35999999999996
+1288,Accessories,119,36,57,Female,Europe,2024-08-09,3,228.48000000000002
+1289,Apparel,95,3,24,Female,Europe,2024-09-16,2,184.29999999999998
+1290,Accessories,291,29,56,Male,Europe,2024-02-24,4,826.4399999999999
+1291,Apparel,157,5,55,Female,Asia,2024-02-26,3,447.45
+1292,Accessories,172,18,38,Male,Europe,2023-04-14,4,564.1600000000001
+1293,Shoes,220,31,37,Female,South America,2023-09-11,2,303.59999999999997
+1294,Accessories,286,8,20,Male,Europe,2023-08-15,4,1052.48
+1295,Shoes,70,11,39,Female,Europe,2023-04-22,4,249.20000000000002
+1296,Accessories,200,10,21,Male,South America,2024-05-24,4,720.0
+1297,Shoes,156,15,45,Male,Europe,2024-04-17,3,397.8
+1298,Accessories,296,0,29,Male,South America,2023-04-09,2,592.0
+1299,Shoes,129,20,55,Male,Europe,2023-06-02,1,103.2
+1300,Apparel,96,29,53,Male,South America,2023-12-04,3,204.48
+1301,Apparel,166,12,58,Male,Europe,2024-12-06,1,146.08
+1302,Shoes,173,33,22,Female,South America,2023-06-12,1,115.90999999999998
+1303,Accessories,192,3,30,Female,Asia,2024-12-20,3,558.72
+1304,Shoes,74,27,40,Male,South America,2024-11-11,3,162.06
+1305,Accessories,85,37,47,Male,Europe,2023-06-10,2,107.1
+1306,Apparel,252,30,54,Male,Europe,2024-08-02,2,352.79999999999995
+1307,Accessories,100,26,42,Male,North America,2024-02-02,4,296.0
+1308,Apparel,64,4,44,Female,South America,2023-10-04,1,61.44
+1309,Accessories,117,24,31,Male,Asia,2024-05-18,2,177.84
+1310,Accessories,70,2,53,Female,South America,2024-01-27,4,274.4
+1311,Accessories,190,32,56,Female,South America,2023-05-15,2,258.4
+1312,Shoes,263,3,33,Male,Asia,2023-07-14,3,765.3299999999999
+1313,Shoes,68,24,39,Male,South America,2024-02-05,2,103.36
+1314,Apparel,83,19,38,Female,Asia,2024-10-01,1,67.23
+1315,Apparel,127,33,38,Female,Asia,2023-02-02,2,170.17999999999998
+1316,Shoes,174,25,25,Male,South America,2024-11-18,1,130.5
+1317,Apparel,245,4,33,Male,South America,2024-04-04,3,705.6
+1318,Shoes,289,34,48,Male,Europe,2024-04-14,1,190.73999999999998
+1319,Accessories,166,27,59,Female,Europe,2024-01-10,2,242.35999999999999
+1320,Apparel,101,28,27,Female,North America,2023-01-22,4,290.88
+1321,Apparel,287,8,49,Male,North America,2024-10-31,3,792.12
+1322,Shoes,76,37,51,Female,South America,2023-02-07,2,95.76
+1323,Apparel,206,5,26,Female,Asia,2023-08-18,3,587.1
+1324,Apparel,288,18,34,Male,North America,2023-12-31,3,708.48
+1325,Accessories,205,10,28,Male,South America,2024-07-16,2,369.0
+1326,Apparel,84,1,49,Female,North America,2024-03-13,2,166.32
+1327,Accessories,185,8,27,Female,Asia,2023-10-10,4,680.8000000000001
+1328,Shoes,193,20,39,Male,South America,2023-01-27,3,463.20000000000005
+1329,Apparel,155,23,34,Male,Asia,2023-08-14,3,358.05
+1330,Accessories,213,33,21,Male,South America,2023-10-04,2,285.41999999999996
+1331,Shoes,207,21,42,Male,North America,2024-08-31,1,163.53
+1332,Apparel,195,2,38,Male,Europe,2023-10-11,2,382.2
+1333,Shoes,51,11,54,Female,North America,2024-04-25,3,136.17000000000002
+1334,Apparel,226,27,55,Female,North America,2024-03-28,2,329.96
+1335,Shoes,126,29,18,Female,Europe,2024-10-20,4,357.84
+1336,Shoes,181,25,42,Female,Europe,2024-05-30,1,135.75
+1337,Accessories,139,20,53,Male,South America,2024-06-30,2,222.4
+1338,Shoes,138,27,34,Male,South America,2023-07-11,4,402.96
+1339,Apparel,143,25,58,Male,Asia,2023-02-18,3,321.75
+1340,Apparel,252,32,41,Female,Asia,2024-05-26,2,342.71999999999997
+1341,Accessories,56,20,19,Female,North America,2023-01-17,3,134.4
+1342,Apparel,144,34,57,Female,Europe,2023-06-21,4,380.15999999999997
+1343,Apparel,157,33,32,Male,Asia,2023-08-08,3,315.57
+1344,Apparel,123,17,49,Female,North America,2023-06-07,4,408.35999999999996
+1345,Shoes,88,10,56,Male,Europe,2024-04-21,4,316.8
+1346,Shoes,190,22,23,Male,South America,2023-02-15,4,592.8000000000001
+1347,Apparel,208,21,18,Male,North America,2024-01-08,2,328.64
+1348,Accessories,120,16,40,Male,South America,2024-06-01,3,302.4
+1349,Shoes,240,4,56,Male,Asia,2023-04-09,3,691.1999999999999
+1350,Accessories,105,10,34,Male,Asia,2023-02-06,1,94.5
+1351,Apparel,290,29,51,Female,Europe,2023-10-07,1,205.89999999999998
+1352,Apparel,219,14,58,Male,North America,2023-12-15,1,188.34
+1353,Shoes,238,26,46,Male,South America,2024-05-11,1,176.12
+1354,Apparel,91,34,26,Female,Europe,2023-10-29,3,180.17999999999998
+1355,Shoes,233,32,30,Male,Asia,2023-06-30,4,633.76
+1356,Apparel,85,19,23,Female,Asia,2024-08-29,4,275.40000000000003
+1357,Apparel,133,15,23,Female,North America,2023-04-09,2,226.1
+1358,Shoes,245,33,37,Female,South America,2024-11-30,4,656.5999999999999
+1359,Shoes,167,1,20,Male,North America,2023-04-26,3,495.99
+1360,Shoes,56,34,34,Male,South America,2023-07-10,3,110.87999999999998
+1361,Apparel,103,39,29,Female,South America,2023-09-10,3,188.49
+1362,Apparel,178,27,18,Male,North America,2023-06-10,2,259.88
+1363,Accessories,221,38,34,Male,Europe,2023-09-13,1,137.02
+1364,Shoes,169,5,20,Female,North America,2023-11-19,4,642.1999999999999
+1365,Apparel,222,8,43,Female,North America,2023-05-08,3,612.72
+1366,Apparel,155,19,32,Male,Asia,2023-01-18,3,376.65000000000003
+1367,Shoes,96,0,53,Female,Asia,2024-07-19,1,96.0
+1368,Accessories,172,7,49,Female,North America,2024-07-23,3,479.88
+1369,Shoes,190,22,49,Female,North America,2023-11-19,4,592.8000000000001
+1370,Accessories,168,2,21,Male,Asia,2024-11-16,2,329.28
+1371,Apparel,199,3,35,Male,South America,2024-09-17,3,579.09
+1372,Accessories,167,24,36,Male,North America,2023-10-15,4,507.68
+1373,Apparel,70,37,52,Female,Europe,2024-10-24,3,132.3
+1374,Shoes,263,14,57,Male,Europe,2024-09-30,1,226.18
+1375,Shoes,269,20,31,Female,Europe,2023-06-04,3,645.6
+1376,Shoes,186,34,50,Male,North America,2024-05-04,3,368.28
+1377,Accessories,75,13,31,Male,South America,2024-01-21,2,130.5
+1378,Apparel,58,35,51,Female,South America,2023-04-14,1,37.7
+1379,Shoes,64,11,21,Male,Asia,2024-01-28,1,56.96
+1380,Shoes,59,16,41,Female,North America,2023-09-03,2,99.11999999999999
+1381,Apparel,265,38,46,Male,South America,2023-06-25,3,492.9
+1382,Shoes,171,8,36,Male,North America,2023-02-08,4,629.28
+1383,Apparel,170,34,23,Female,Asia,2024-04-21,1,112.19999999999999
+1384,Apparel,174,12,50,Female,Asia,2024-11-12,1,153.12
+1385,Apparel,219,14,57,Female,Asia,2024-06-21,3,565.02
+1386,Apparel,121,17,36,Male,Europe,2024-02-12,3,301.28999999999996
+1387,Apparel,201,32,18,Male,North America,2024-06-08,1,136.67999999999998
+1388,Accessories,257,5,22,Male,Asia,2024-05-20,3,732.4499999999999
+1389,Shoes,98,26,44,Female,North America,2023-02-05,4,290.08
+1390,Accessories,203,22,33,Female,Europe,2024-11-15,1,158.34
+1391,Shoes,140,26,23,Female,Europe,2023-01-20,4,414.4
+1392,Accessories,86,33,57,Male,Asia,2023-11-17,4,230.47999999999996
+1393,Apparel,117,37,30,Male,Asia,2024-05-26,3,221.13
+1394,Shoes,99,13,52,Female,South America,2024-02-04,4,344.52
+1395,Shoes,201,35,36,Male,North America,2024-10-15,3,391.95
+1396,Accessories,68,7,29,Female,Asia,2024-04-15,2,126.47999999999999
+1397,Accessories,149,34,33,Male,South America,2023-05-23,3,295.02
+1398,Shoes,109,18,27,Male,North America,2023-04-02,4,357.52000000000004
+1399,Accessories,216,29,42,Female,Asia,2023-12-20,2,306.71999999999997
+1400,Accessories,251,13,37,Male,South America,2024-12-27,3,655.11
+1401,Accessories,138,19,48,Male,South America,2023-02-20,4,447.12
+1402,Apparel,195,24,21,Female,North America,2024-10-26,1,148.2
+1403,Apparel,196,39,40,Female,South America,2024-11-28,1,119.56
+1404,Accessories,213,23,19,Male,North America,2024-07-28,3,492.03000000000003
+1405,Accessories,251,13,39,Female,North America,2023-07-09,3,655.11
+1406,Apparel,274,25,54,Male,North America,2023-05-05,1,205.5
+1407,Apparel,232,37,25,Female,Europe,2023-05-30,4,584.64
+1408,Shoes,291,22,24,Male,South America,2023-11-10,4,907.9200000000001
+1409,Shoes,118,21,31,Male,North America,2024-07-23,4,372.88
+1410,Apparel,224,18,20,Female,Asia,2023-12-08,3,551.0400000000001
+1411,Accessories,98,2,33,Male,Europe,2023-11-01,2,192.07999999999998
+1412,Accessories,276,18,36,Male,Europe,2024-11-22,2,452.64000000000004
+1413,Accessories,157,8,35,Female,South America,2024-11-12,2,288.88
+1414,Accessories,275,27,33,Female,North America,2023-02-23,2,401.5
+1415,Shoes,210,19,25,Male,South America,2024-03-19,2,340.20000000000005
+1416,Apparel,168,6,50,Female,Europe,2024-09-04,3,473.76
+1417,Accessories,198,13,29,Female,North America,2023-09-21,3,516.78
+1418,Shoes,258,8,28,Male,Asia,2023-02-22,2,474.72
+1419,Accessories,199,18,22,Male,North America,2024-07-25,3,489.54
+1420,Apparel,225,13,44,Female,Europe,2024-09-11,3,587.25
+1421,Shoes,86,37,29,Female,Asia,2023-01-05,2,108.36
+1422,Apparel,192,35,34,Female,North America,2023-04-13,4,499.20000000000005
+1423,Apparel,212,39,23,Male,Asia,2023-07-15,3,387.96
+1424,Shoes,269,16,50,Male,Asia,2023-12-16,4,903.8399999999999
+1425,Shoes,248,29,22,Male,Europe,2023-02-16,3,528.24
+1426,Shoes,209,8,45,Male,Asia,2024-10-17,3,576.84
+1427,Shoes,60,32,31,Male,South America,2023-09-26,2,81.6
+1428,Shoes,187,24,22,Male,Europe,2024-01-05,3,426.36
+1429,Shoes,250,13,50,Male,South America,2024-09-27,1,217.5
+1430,Shoes,127,10,58,Female,Asia,2023-04-16,1,114.3
+1431,Accessories,126,34,36,Female,South America,2024-10-31,2,166.32
+1432,Apparel,234,13,39,Male,North America,2024-10-20,4,814.32
+1433,Shoes,202,29,22,Male,Asia,2024-10-18,4,573.68
+1434,Accessories,51,3,19,Male,North America,2023-04-30,4,197.88
+1435,Accessories,113,3,47,Female,South America,2024-08-26,1,109.61
+1436,Accessories,84,27,56,Male,North America,2023-02-27,4,245.28
+1437,Apparel,56,7,21,Female,Asia,2023-12-12,4,208.32
+1438,Shoes,134,1,50,Female,North America,2024-04-18,2,265.32
+1439,Accessories,195,21,30,Female,South America,2023-04-27,4,616.2
+1440,Apparel,116,15,37,Female,South America,2023-05-07,1,98.6
+1441,Apparel,91,28,24,Female,South America,2024-01-28,1,65.52
+1442,Apparel,167,29,32,Male,Asia,2024-10-02,1,118.57
+1443,Accessories,174,11,40,Male,South America,2023-02-27,2,309.72
+1444,Shoes,216,34,31,Female,Asia,2024-09-25,2,285.11999999999995
+1445,Accessories,218,10,40,Male,North America,2024-05-27,3,588.6
+1446,Accessories,290,20,36,Female,South America,2023-04-06,4,928.0
+1447,Shoes,252,20,46,Female,North America,2024-09-29,2,403.20000000000005
+1448,Shoes,280,4,37,Male,Europe,2023-04-28,1,268.8
+1449,Shoes,73,19,46,Male,North America,2024-07-13,1,59.13
+1450,Apparel,237,36,41,Male,Europe,2024-08-23,2,303.36
+1451,Shoes,95,2,35,Male,North America,2024-05-02,2,186.2
+1452,Accessories,68,32,27,Male,Asia,2023-08-25,2,92.47999999999999
+1453,Shoes,117,8,58,Female,North America,2023-09-29,3,322.92
+1454,Accessories,267,8,25,Male,Asia,2023-07-08,1,245.64000000000001
+1455,Apparel,151,3,43,Male,Asia,2024-12-04,3,439.40999999999997
+1456,Accessories,91,34,46,Male,South America,2024-03-22,3,180.17999999999998
+1457,Accessories,81,16,27,Female,Asia,2024-08-03,4,272.15999999999997
+1458,Shoes,216,33,34,Male,Europe,2023-09-04,1,144.71999999999997
+1459,Shoes,158,23,19,Female,South America,2023-03-17,1,121.66
+1460,Accessories,287,31,23,Male,South America,2023-06-03,2,396.05999999999995
+1461,Shoes,85,0,22,Male,North America,2024-10-17,2,170.0
+1462,Apparel,281,7,45,Female,Asia,2024-03-10,4,1045.32
+1463,Apparel,278,22,58,Male,Asia,2023-03-27,3,650.52
+1464,Shoes,146,39,22,Male,Europe,2024-11-27,2,178.12
+1465,Apparel,213,11,35,Female,North America,2023-10-12,2,379.14
+1466,Shoes,180,11,43,Male,North America,2023-08-08,1,160.2
+1467,Accessories,122,14,37,Female,South America,2023-03-10,1,104.92
+1468,Accessories,185,18,58,Female,South America,2023-02-16,2,303.40000000000003
+1469,Apparel,146,25,44,Female,South America,2023-04-04,1,109.5
+1470,Shoes,172,28,29,Female,Europe,2024-03-28,4,495.35999999999996
+1471,Shoes,119,21,24,Female,Europe,2023-07-23,2,188.02
+1472,Apparel,218,39,20,Male,South America,2023-08-06,1,132.98
+1473,Accessories,280,20,27,Male,North America,2024-04-18,4,896.0
+1474,Apparel,245,37,51,Male,Europe,2024-03-07,1,154.35
+1475,Accessories,62,19,42,Female,North America,2023-12-07,1,50.220000000000006
+1476,Shoes,98,28,52,Female,North America,2024-07-04,1,70.56
+1477,Accessories,109,3,33,Female,Asia,2024-09-03,2,211.46
+1478,Apparel,179,6,19,Female,South America,2023-10-16,3,504.78
+1479,Shoes,237,27,41,Male,Asia,2023-09-11,1,173.01
+1480,Apparel,54,27,27,Male,South America,2023-12-23,4,157.68
+1481,Apparel,221,3,55,Female,South America,2023-01-23,2,428.74
+1482,Accessories,76,21,39,Female,North America,2024-06-05,2,120.08000000000001
+1483,Apparel,209,11,43,Male,South America,2023-04-10,4,744.04
+1484,Accessories,198,2,56,Female,North America,2023-06-29,1,194.04
+1485,Shoes,57,21,44,Female,North America,2023-08-11,3,135.09
+1486,Accessories,279,1,46,Female,South America,2024-10-20,1,276.21
+1487,Shoes,249,23,55,Male,North America,2024-03-17,4,766.9200000000001
+1488,Accessories,99,33,37,Male,North America,2024-08-30,2,132.66
+1489,Apparel,116,26,44,Female,North America,2023-11-21,3,257.52
+1490,Accessories,295,0,58,Male,Europe,2024-05-30,2,590.0
+1491,Accessories,93,7,37,Female,North America,2023-01-16,4,345.96
+1492,Shoes,174,22,36,Female,Europe,2023-12-02,1,135.72
+1493,Apparel,107,37,37,Male,Europe,2023-09-15,3,202.23
+1494,Accessories,52,5,52,Female,North America,2024-05-11,2,98.8
+1495,Apparel,135,21,19,Female,North America,2023-06-09,2,213.3
+1496,Accessories,119,24,47,Male,Europe,2024-04-19,2,180.88
+1497,Accessories,179,17,51,Female,Europe,2024-10-25,1,148.57
+1498,Apparel,264,16,39,Female,North America,2024-11-20,3,665.28
+1499,Accessories,221,11,20,Female,North America,2024-11-05,1,196.69
+1500,Apparel,51,5,23,Male,South America,2024-01-15,1,48.449999999999996
+1501,Accessories,151,25,32,Female,Europe,2024-06-28,1,113.25
+1502,Shoes,258,26,44,Male,Europe,2024-11-21,4,763.68
+1503,Apparel,84,7,27,Female,South America,2024-03-02,4,312.47999999999996
+1504,Accessories,147,18,26,Female,Europe,2024-09-04,4,482.16
+1505,Accessories,264,0,50,Female,Asia,2023-09-25,3,792.0
+1506,Shoes,79,28,49,Female,Europe,2024-07-30,1,56.879999999999995
+1507,Apparel,165,34,23,Male,South America,2024-02-21,1,108.89999999999999
+1508,Accessories,57,39,58,Male,Asia,2023-06-17,4,139.07999999999998
+1509,Shoes,199,13,53,Female,North America,2023-02-12,1,173.13
+1510,Accessories,93,34,19,Female,South America,2024-07-09,1,61.379999999999995
+1511,Apparel,235,19,46,Female,South America,2023-10-12,2,380.70000000000005
+1512,Accessories,85,12,21,Female,North America,2024-02-01,1,74.8
+1513,Accessories,246,37,18,Female,South America,2023-01-12,2,309.96
+1514,Accessories,126,7,36,Female,Europe,2024-08-29,1,117.17999999999999
+1515,Accessories,270,19,43,Female,North America,2023-10-29,3,656.1
+1516,Shoes,80,32,42,Female,South America,2023-09-10,4,217.59999999999997
+1517,Shoes,96,25,27,Male,North America,2024-05-13,2,144.0
+1518,Apparel,298,38,32,Male,North America,2023-02-04,4,739.04
+1519,Shoes,104,20,39,Male,North America,2024-12-27,2,166.4
+1520,Shoes,257,8,38,Female,Asia,2023-03-31,2,472.88
+1521,Apparel,155,23,39,Female,South America,2024-08-27,2,238.70000000000002
+1522,Shoes,239,36,53,Female,Asia,2024-08-24,3,458.88
+1523,Shoes,207,16,51,Male,South America,2024-02-22,1,173.88
+1524,Apparel,170,23,47,Female,Europe,2023-04-25,2,261.8
+1525,Apparel,104,20,42,Male,Europe,2024-09-08,3,249.60000000000002
+1526,Apparel,193,38,45,Female,Europe,2023-07-15,2,239.32
+1527,Accessories,61,38,18,Male,South America,2024-05-15,1,37.82
+1528,Accessories,194,12,21,Male,North America,2024-09-17,2,341.44
+1529,Apparel,193,10,24,Male,North America,2024-05-07,3,521.1
+1530,Apparel,189,18,26,Female,Asia,2023-03-16,1,154.98000000000002
+1531,Apparel,185,10,53,Male,Asia,2024-02-17,3,499.5
+1532,Accessories,261,12,36,Female,Europe,2024-01-11,1,229.68
+1533,Accessories,52,0,18,Female,Asia,2024-02-24,1,52.0
+1534,Shoes,193,39,27,Female,South America,2024-12-29,4,470.92
+1535,Shoes,79,18,53,Female,South America,2023-10-04,4,259.12
+1536,Apparel,286,11,26,Female,Asia,2024-11-06,4,1018.16
+1537,Accessories,72,7,59,Male,Asia,2024-01-29,1,66.96
+1538,Accessories,141,7,49,Female,Asia,2024-04-01,2,262.26
+1539,Accessories,164,11,49,Female,Asia,2023-07-11,3,437.88
+1540,Apparel,153,32,23,Female,Europe,2024-11-19,3,312.11999999999995
+1541,Shoes,167,25,55,Female,Europe,2023-04-09,3,375.75
+1542,Apparel,54,38,34,Female,Asia,2024-07-01,4,133.92
+1543,Shoes,261,27,27,Male,South America,2023-04-06,1,190.53
+1544,Shoes,153,4,44,Male,Europe,2024-10-25,4,587.52
+1545,Apparel,297,7,52,Female,South America,2024-10-24,2,552.42
+1546,Shoes,157,24,38,Male,North America,2023-07-09,1,119.32000000000001
+1547,Shoes,114,26,42,Male,South America,2023-02-06,3,253.07999999999998
+1548,Accessories,170,22,45,Female,Asia,2024-01-04,4,530.4
+1549,Shoes,79,29,32,Male,North America,2024-11-25,4,224.35999999999999
+1550,Apparel,198,22,21,Female,Europe,2024-06-08,2,308.88
+1551,Apparel,133,19,46,Male,Europe,2023-10-06,2,215.46
+1552,Shoes,247,17,26,Male,North America,2023-08-05,4,820.04
+1553,Accessories,199,17,44,Male,South America,2023-09-30,2,330.34
+1554,Accessories,259,1,43,Female,Europe,2023-03-03,3,769.23
+1555,Shoes,249,3,36,Male,Asia,2024-08-18,2,483.06
+1556,Shoes,280,29,45,Male,North America,2024-12-29,2,397.59999999999997
+1557,Apparel,81,32,34,Female,Asia,2023-12-08,4,220.32
+1558,Shoes,210,35,58,Female,North America,2024-02-01,4,546.0
+1559,Accessories,294,17,59,Male,Europe,2024-11-29,1,244.01999999999998
+1560,Shoes,65,36,37,Female,South America,2023-01-19,1,41.6
+1561,Apparel,253,18,57,Male,North America,2023-06-26,4,829.84
+1562,Apparel,87,27,56,Male,North America,2024-09-03,2,127.02
+1563,Apparel,293,39,40,Female,Asia,2024-01-31,2,357.46
+1564,Apparel,275,19,49,Female,Europe,2024-03-20,1,222.75000000000003
+1565,Apparel,191,32,50,Female,Asia,2023-08-21,1,129.88
+1566,Shoes,85,11,22,Male,Europe,2023-03-17,1,75.65
+1567,Shoes,274,14,51,Female,Asia,2023-09-22,3,706.92
+1568,Shoes,200,38,57,Male,North America,2024-03-30,3,372.0
+1569,Shoes,163,1,28,Female,Asia,2024-12-18,1,161.37
+1570,Apparel,286,28,20,Male,South America,2024-01-19,2,411.84
+1571,Accessories,115,9,50,Female,Europe,2024-07-17,1,104.65
+1572,Shoes,154,1,28,Male,Europe,2024-05-20,3,457.38
+1573,Accessories,134,10,33,Female,North America,2024-01-02,2,241.20000000000002
+1574,Shoes,51,12,35,Male,Europe,2023-05-24,3,134.64000000000001
+1575,Shoes,268,9,47,Female,South America,2023-03-10,2,487.76
+1576,Accessories,298,13,27,Female,Asia,2023-04-09,3,777.78
+1577,Apparel,250,17,35,Male,North America,2024-01-31,2,415.0
+1578,Shoes,242,8,55,Female,South America,2023-01-25,2,445.28000000000003
+1579,Shoes,124,38,36,Male,Europe,2024-04-13,2,153.76
+1580,Shoes,116,27,53,Male,Europe,2024-04-28,2,169.35999999999999
+1581,Accessories,229,2,30,Female,South America,2024-07-18,4,897.68
+1582,Apparel,239,19,20,Male,Asia,2023-05-31,3,580.77
+1583,Accessories,200,5,27,Female,Asia,2023-05-24,3,570.0
+1584,Accessories,203,26,55,Female,North America,2024-07-22,4,600.88
+1585,Apparel,245,1,18,Male,Europe,2023-02-08,2,485.1
+1586,Accessories,259,28,44,Female,South America,2023-04-19,2,372.96
+1587,Apparel,104,37,25,Male,Asia,2024-11-23,3,196.56
+1588,Shoes,55,2,59,Male,North America,2023-02-11,4,215.6
+1589,Apparel,212,15,34,Female,Europe,2023-07-05,2,360.4
+1590,Shoes,199,29,26,Female,Europe,2024-02-02,2,282.58
+1591,Accessories,220,39,23,Male,North America,2023-08-11,2,268.4
+1592,Accessories,192,1,42,Male,North America,2024-09-25,1,190.07999999999998
+1593,Shoes,135,16,56,Female,Asia,2023-05-13,4,453.59999999999997
+1594,Accessories,109,11,45,Female,South America,2023-06-12,2,194.02
+1595,Apparel,150,34,50,Female,Europe,2023-08-03,1,98.99999999999999
+1596,Shoes,293,0,54,Female,South America,2023-08-23,4,1172.0
+1597,Accessories,283,14,26,Male,Europe,2024-10-19,2,486.76
+1598,Shoes,61,25,35,Female,Europe,2024-08-10,3,137.25
+1599,Apparel,288,36,38,Male,South America,2023-01-09,1,184.32
+1600,Apparel,98,20,19,Male,North America,2023-03-15,1,78.4
+1601,Accessories,91,30,55,Female,Asia,2024-05-06,2,127.39999999999999
+1602,Apparel,215,24,57,Male,Europe,2023-09-10,2,326.8
+1603,Shoes,131,22,53,Female,North America,2023-08-18,1,102.18
+1604,Apparel,222,23,54,Male,Europe,2024-06-02,3,512.82
+1605,Shoes,84,37,32,Female,Asia,2023-06-23,3,158.76
+1606,Shoes,207,27,45,Male,Europe,2024-10-14,4,604.4399999999999
+1607,Apparel,265,20,35,Male,Asia,2023-06-17,2,424.0
+1608,Accessories,283,17,51,Female,Asia,2023-06-19,3,704.67
+1609,Apparel,207,35,39,Female,Europe,2024-01-28,4,538.2
+1610,Shoes,255,34,28,Male,Europe,2024-09-25,3,504.8999999999999
+1611,Shoes,183,8,30,Male,Asia,2023-07-13,2,336.72
+1612,Apparel,116,37,21,Female,North America,2024-05-31,4,292.32
+1613,Accessories,129,29,39,Male,South America,2023-01-29,4,366.35999999999996
+1614,Accessories,56,33,24,Female,Asia,2023-06-14,4,150.07999999999998
+1615,Shoes,229,31,41,Male,Europe,2024-02-26,3,474.03
+1616,Shoes,63,2,21,Female,Europe,2023-12-05,2,123.48
+1617,Accessories,122,2,45,Male,North America,2024-10-09,4,478.24
+1618,Apparel,192,27,32,Female,South America,2024-05-10,1,140.16
+1619,Shoes,198,14,18,Female,Asia,2023-12-31,2,340.56
+1620,Shoes,212,22,20,Male,Asia,2023-12-08,1,165.36
+1621,Accessories,115,39,31,Female,South America,2024-05-14,1,70.14999999999999
+1622,Apparel,140,10,55,Male,Asia,2024-10-18,4,504.0
+1623,Accessories,179,31,18,Female,South America,2024-05-25,4,494.03999999999996
+1624,Apparel,212,35,55,Female,Europe,2023-11-23,3,413.40000000000003
+1625,Apparel,259,32,55,Female,South America,2023-08-05,3,528.3599999999999
+1626,Apparel,255,23,38,Male,Asia,2023-10-28,3,589.0500000000001
+1627,Shoes,69,38,46,Female,South America,2023-05-12,2,85.56
+1628,Accessories,259,33,22,Male,North America,2023-03-11,3,520.5899999999999
+1629,Accessories,59,27,27,Female,Europe,2023-09-09,1,43.07
+1630,Apparel,74,36,45,Male,Europe,2024-02-19,3,142.08
+1631,Shoes,243,6,38,Male,South America,2024-03-20,4,913.68
+1632,Shoes,74,3,24,Male,Asia,2023-07-01,3,215.34
+1633,Accessories,103,36,20,Female,North America,2023-06-16,2,131.84
+1634,Shoes,82,0,37,Male,Europe,2023-04-01,2,164.0
+1635,Shoes,213,0,36,Female,Europe,2024-12-14,1,213.0
+1636,Apparel,144,19,52,Male,Asia,2024-06-14,2,233.28000000000003
+1637,Shoes,63,18,21,Male,Asia,2023-02-08,3,154.98000000000002
+1638,Apparel,114,28,22,Male,North America,2023-05-06,4,328.32
+1639,Accessories,159,9,18,Male,South America,2024-03-26,2,289.38
+1640,Shoes,129,17,21,Female,Asia,2023-06-22,1,107.07
+1641,Accessories,103,27,29,Male,South America,2024-10-14,3,225.57
+1642,Accessories,287,34,44,Male,North America,2023-08-08,1,189.42
+1643,Shoes,174,30,59,Female,South America,2024-09-29,2,243.6
+1644,Shoes,229,26,40,Male,Europe,2023-02-27,2,338.92
+1645,Accessories,180,10,42,Male,South America,2024-10-21,1,162.0
+1646,Shoes,276,37,38,Male,North America,2024-04-20,3,521.64
+1647,Apparel,218,4,41,Male,North America,2024-03-31,2,418.56
+1648,Apparel,183,7,42,Female,North America,2023-12-27,4,680.76
+1649,Shoes,74,33,49,Female,South America,2023-01-01,2,99.16
+1650,Accessories,190,11,49,Male,Europe,2024-01-22,3,507.3
+1651,Shoes,166,37,22,Female,Asia,2023-12-14,2,209.16
+1652,Shoes,275,0,53,Female,Europe,2023-07-09,1,275.0
+1653,Accessories,185,30,59,Male,South America,2024-05-19,2,259.0
+1654,Accessories,198,3,59,Female,South America,2023-07-10,2,384.12
+1655,Apparel,275,4,56,Male,Asia,2024-05-22,3,792.0
+1656,Accessories,245,29,33,Female,South America,2024-01-04,1,173.95
+1657,Apparel,74,23,50,Female,North America,2024-02-13,3,170.94
+1658,Accessories,128,2,38,Female,North America,2023-04-27,2,250.88
+1659,Shoes,117,10,26,Male,North America,2023-05-14,4,421.2
+1660,Apparel,222,3,23,Female,North America,2023-02-27,2,430.68
+1661,Apparel,237,25,52,Male,North America,2024-07-09,3,533.25
+1662,Apparel,61,26,56,Male,South America,2024-11-15,4,180.56
+1663,Shoes,81,26,39,Female,Asia,2024-11-02,3,179.82
+1664,Shoes,177,5,58,Male,Asia,2023-06-22,3,504.45
+1665,Shoes,145,14,22,Female,North America,2023-05-29,1,124.7
+1666,Shoes,141,29,59,Male,South America,2023-03-21,4,400.44
+1667,Shoes,190,36,40,Male,Europe,2023-08-01,2,243.20000000000002
+1668,Apparel,80,36,34,Female,Europe,2023-07-22,3,153.6
+1669,Shoes,127,36,29,Female,South America,2023-08-17,2,162.56
+1670,Apparel,69,34,40,Female,North America,2024-11-06,1,45.53999999999999
+1671,Shoes,195,22,33,Female,Asia,2023-08-15,1,152.1
+1672,Accessories,270,5,20,Male,South America,2024-10-20,4,1026.0
+1673,Apparel,109,3,47,Male,Europe,2024-06-15,1,105.73
+1674,Accessories,240,17,39,Male,Europe,2024-03-16,1,199.2
+1675,Apparel,183,8,26,Female,Europe,2024-02-06,2,336.72
+1676,Accessories,209,28,46,Male,North America,2023-02-16,1,150.48
+1677,Shoes,142,12,54,Female,Europe,2023-08-21,1,124.96
+1678,Shoes,92,16,40,Male,South America,2023-11-01,3,231.84
+1679,Shoes,179,31,30,Female,South America,2024-06-09,1,123.50999999999999
+1680,Apparel,109,21,49,Male,Europe,2023-05-23,3,258.33
+1681,Accessories,200,3,40,Male,South America,2024-02-19,1,194.0
+1682,Shoes,260,4,34,Female,Europe,2024-05-27,1,249.6
+1683,Accessories,80,36,57,Male,Europe,2024-01-08,4,204.8
+1684,Accessories,292,12,38,Female,Asia,2024-07-19,4,1027.84
+1685,Shoes,54,33,19,Male,North America,2023-09-16,3,108.53999999999999
+1686,Shoes,260,21,54,Male,North America,2024-10-17,1,205.4
+1687,Accessories,211,22,23,Female,Asia,2024-04-15,2,329.16
+1688,Shoes,59,2,35,Female,Asia,2023-01-12,4,231.28
+1689,Shoes,138,33,47,Male,North America,2023-11-26,2,184.92
+1690,Shoes,179,31,39,Male,Europe,2023-12-24,4,494.03999999999996
+1691,Apparel,175,20,50,Male,Europe,2024-02-12,4,560.0
+1692,Accessories,60,20,47,Male,North America,2024-10-29,1,48.0
+1693,Accessories,227,10,34,Male,Europe,2024-01-08,4,817.2
+1694,Apparel,208,38,49,Male,Asia,2023-01-08,2,257.92
+1695,Accessories,105,3,59,Female,Europe,2023-05-02,4,407.4
+1696,Shoes,256,0,31,Female,Europe,2023-12-14,3,768.0
+1697,Accessories,250,27,27,Female,South America,2024-11-06,1,182.5
+1698,Shoes,264,23,53,Male,South America,2023-03-31,1,203.28
+1699,Apparel,132,34,51,Male,South America,2024-10-09,3,261.35999999999996
+1700,Shoes,186,12,26,Male,Europe,2024-11-28,3,491.04
+1701,Accessories,148,33,59,Female,North America,2023-11-12,3,297.47999999999996
+1702,Accessories,198,10,45,Female,Asia,2023-06-27,4,712.8000000000001
+1703,Accessories,122,35,28,Male,Europe,2024-06-23,1,79.3
+1704,Apparel,205,16,31,Male,North America,2023-02-10,3,516.6
+1705,Apparel,239,34,56,Female,Europe,2024-12-04,4,630.9599999999999
+1706,Accessories,287,17,36,Female,Asia,2024-05-16,3,714.63
+1707,Shoes,164,39,32,Female,Europe,2023-05-25,2,200.07999999999998
+1708,Apparel,56,21,45,Male,Asia,2023-07-20,2,88.48
+1709,Accessories,129,23,41,Male,Europe,2024-12-24,1,99.33
+1710,Accessories,193,18,25,Male,Asia,2024-04-05,4,633.0400000000001
+1711,Apparel,146,36,26,Female,Europe,2024-07-11,2,186.88
+1712,Apparel,53,38,50,Female,Asia,2024-06-30,2,65.72
+1713,Apparel,53,20,50,Male,South America,2023-09-10,4,169.60000000000002
+1714,Shoes,152,7,36,Male,Europe,2024-01-25,3,424.08
+1715,Shoes,89,27,20,Female,Europe,2024-08-16,4,259.88
+1716,Accessories,66,4,27,Male,North America,2023-09-13,3,190.07999999999998
+1717,Apparel,150,16,57,Female,North America,2024-12-09,2,252.0
+1718,Shoes,152,36,59,Female,Asia,2024-03-25,2,194.56
+1719,Apparel,173,35,18,Male,Europe,2023-01-10,2,224.9
+1720,Accessories,101,18,46,Female,Asia,2023-08-30,1,82.82000000000001
+1721,Shoes,270,26,51,Male,South America,2023-09-08,1,199.8
+1722,Shoes,101,33,30,Female,North America,2023-01-05,1,67.66999999999999
+1723,Shoes,213,10,18,Female,Asia,2023-04-29,4,766.8000000000001
+1724,Accessories,173,11,51,Male,Asia,2024-01-09,2,307.94
+1725,Apparel,215,20,46,Female,North America,2023-03-06,2,344.0
+1726,Shoes,280,10,30,Male,Europe,2023-05-26,4,1008.0
+1727,Accessories,227,38,46,Male,Asia,2023-08-12,1,140.74
+1728,Apparel,112,27,56,Female,North America,2023-08-27,4,327.03999999999996
+1729,Accessories,278,4,41,Male,Europe,2023-06-26,1,266.88
+1730,Apparel,165,16,43,Male,South America,2023-10-09,2,277.2
+1731,Accessories,240,19,34,Male,North America,2023-03-04,3,583.2
+1732,Apparel,111,11,24,Male,Asia,2023-08-05,1,98.79
+1733,Shoes,276,5,30,Male,South America,2024-11-19,2,524.4
+1734,Apparel,56,16,22,Male,Europe,2024-04-05,2,94.08
+1735,Accessories,204,18,43,Female,Europe,2024-09-01,3,501.84000000000003
+1736,Accessories,141,25,20,Male,North America,2023-04-15,2,211.5
+1737,Apparel,263,31,24,Female,North America,2023-04-09,2,362.94
+1738,Shoes,63,5,56,Female,North America,2024-05-25,1,59.849999999999994
+1739,Shoes,248,35,18,Male,Europe,2024-01-20,1,161.20000000000002
+1740,Apparel,278,37,34,Female,South America,2024-02-09,3,525.42
+1741,Apparel,135,10,42,Female,Europe,2024-06-01,3,364.5
+1742,Accessories,182,32,20,Male,Asia,2024-04-20,2,247.51999999999998
+1743,Shoes,232,23,32,Male,Europe,2024-12-09,1,178.64000000000001
+1744,Apparel,179,22,46,Male,Asia,2024-10-06,3,418.86
+1745,Shoes,111,14,49,Female,South America,2024-03-12,3,286.38
+1746,Apparel,268,26,43,Female,North America,2023-01-23,4,793.28
+1747,Apparel,198,10,33,Male,North America,2024-07-18,3,534.6
+1748,Shoes,295,16,42,Male,Europe,2024-11-07,2,495.59999999999997
+1749,Apparel,279,13,45,Female,North America,2024-12-14,1,242.73
+1750,Apparel,128,26,26,Female,South America,2024-04-02,3,284.15999999999997
+1751,Accessories,198,17,18,Female,North America,2023-03-24,4,657.36
+1752,Apparel,187,27,46,Female,Europe,2023-05-25,1,136.51
+1753,Apparel,264,3,39,Male,South America,2023-03-26,3,768.24
+1754,Apparel,107,6,33,Female,Asia,2023-03-19,4,402.32
+1755,Accessories,169,34,58,Female,Europe,2024-04-01,3,334.61999999999995
+1756,Shoes,216,8,58,Female,Asia,2023-01-01,1,198.72
+1757,Accessories,182,7,24,Female,South America,2023-02-20,1,169.26
+1758,Accessories,114,16,31,Male,Europe,2024-11-15,1,95.75999999999999
+1759,Shoes,62,16,46,Male,Europe,2024-12-17,2,104.16
+1760,Accessories,262,32,36,Female,South America,2024-03-21,3,534.4799999999999
+1761,Shoes,267,31,36,Female,North America,2024-03-24,2,368.46
+1762,Accessories,291,7,19,Male,Europe,2024-05-02,1,270.63
+1763,Shoes,286,18,58,Male,Europe,2023-02-03,4,938.08
+1764,Apparel,262,37,32,Female,Asia,2023-12-14,3,495.18
+1765,Accessories,230,2,20,Female,North America,2023-04-05,2,450.8
+1766,Accessories,131,4,28,Male,Asia,2023-03-13,3,377.28
+1767,Accessories,278,12,47,Male,Asia,2024-07-04,4,978.5600000000001
+1768,Accessories,222,30,57,Male,North America,2023-06-03,2,310.79999999999995
+1769,Apparel,209,15,35,Male,North America,2023-09-07,1,177.65
+1770,Accessories,213,31,19,Male,South America,2024-11-04,2,293.94
+1771,Apparel,258,21,49,Male,North America,2024-03-13,3,611.46
+1772,Apparel,276,28,25,Female,Europe,2023-04-28,3,596.16
+1773,Apparel,290,21,39,Male,North America,2023-11-02,3,687.3000000000001
+1774,Apparel,237,2,23,Male,South America,2023-09-25,3,696.78
+1775,Shoes,188,9,29,Male,South America,2023-02-23,1,171.08
+1776,Shoes,240,20,57,Male,South America,2023-08-24,2,384.0
+1777,Accessories,198,15,53,Female,North America,2024-01-24,1,168.29999999999998
+1778,Shoes,101,11,32,Female,North America,2024-02-05,1,89.89
+1779,Shoes,232,1,45,Male,Asia,2024-09-15,1,229.68
+1780,Accessories,166,23,35,Female,Asia,2023-10-30,3,383.46000000000004
+1781,Accessories,75,34,19,Female,Europe,2023-07-26,3,148.49999999999997
+1782,Accessories,245,29,30,Female,Asia,2023-08-17,3,521.85
+1783,Shoes,83,29,32,Female,Europe,2024-07-31,2,117.86
+1784,Shoes,101,34,37,Female,South America,2023-03-16,4,266.64
+1785,Accessories,161,18,46,Female,Asia,2024-03-10,3,396.06
+1786,Apparel,131,7,59,Male,North America,2023-04-13,2,243.66
+1787,Accessories,281,25,46,Male,Asia,2024-02-26,3,632.25
+1788,Apparel,276,39,20,Male,Europe,2024-12-04,3,505.08
+1789,Apparel,282,6,36,Male,Asia,2023-11-02,1,265.08
+1790,Accessories,270,29,20,Male,South America,2023-04-08,1,191.7
+1791,Accessories,229,6,31,Female,North America,2023-12-01,1,215.26
+1792,Accessories,206,2,57,Male,Europe,2024-03-10,2,403.76
+1793,Shoes,215,0,21,Male,North America,2024-03-22,4,860.0
+1794,Apparel,91,35,28,Female,North America,2023-11-04,4,236.6
+1795,Shoes,70,24,48,Female,Europe,2023-09-06,2,106.4
+1796,Shoes,91,36,49,Male,North America,2023-06-15,3,174.72
+1797,Accessories,190,0,44,Female,North America,2024-04-25,2,380.0
+1798,Shoes,162,14,47,Female,Asia,2023-12-01,3,417.96
+1799,Accessories,154,36,19,Female,North America,2024-06-25,2,197.12
+1800,Apparel,241,12,26,Female,North America,2023-04-16,2,424.16
+1801,Accessories,66,39,45,Male,North America,2024-07-16,2,80.52
+1802,Shoes,169,7,48,Female,North America,2023-03-22,4,628.68
+1803,Shoes,186,4,51,Male,Europe,2023-05-13,1,178.56
+1804,Accessories,218,8,32,Male,South America,2023-05-18,2,401.12
+1805,Accessories,178,0,42,Female,Asia,2023-07-03,4,712.0
+1806,Shoes,179,35,53,Female,North America,2024-02-05,1,116.35000000000001
+1807,Apparel,109,34,25,Female,North America,2023-11-26,1,71.94
+1808,Apparel,97,1,26,Male,Europe,2024-05-22,2,192.06
+1809,Accessories,78,39,54,Female,South America,2023-03-10,3,142.74
+1810,Apparel,146,22,56,Female,North America,2024-06-29,3,341.64
+1811,Shoes,59,8,49,Female,Europe,2023-02-22,3,162.84
+1812,Accessories,291,33,34,Female,Asia,2024-03-25,2,389.93999999999994
+1813,Shoes,107,13,52,Female,Asia,2023-07-24,3,279.27
+1814,Shoes,237,3,54,Male,North America,2023-05-06,4,919.56
+1815,Apparel,281,29,36,Female,North America,2023-02-12,4,798.04
+1816,Accessories,70,30,46,Female,South America,2023-04-21,4,196.0
+1817,Accessories,77,37,24,Female,South America,2024-10-24,4,194.04
+1818,Apparel,252,10,45,Male,North America,2023-07-02,1,226.8
+1819,Shoes,296,34,26,Female,Europe,2023-04-05,4,781.4399999999999
+1820,Shoes,83,7,45,Male,South America,2024-01-09,3,231.57
+1821,Shoes,57,2,23,Male,North America,2024-06-03,2,111.72
+1822,Shoes,236,13,46,Female,South America,2023-12-26,3,615.96
+1823,Accessories,263,12,34,Female,North America,2024-11-26,4,925.76
+1824,Accessories,249,31,33,Female,Asia,2023-10-08,1,171.80999999999997
+1825,Apparel,226,33,40,Male,North America,2023-07-14,4,605.68
+1826,Apparel,128,18,48,Male,Asia,2023-07-14,2,209.92000000000002
+1827,Accessories,194,37,20,Male,South America,2024-10-28,3,366.66
+1828,Accessories,237,15,38,Male,North America,2023-04-03,2,402.9
+1829,Shoes,136,1,43,Male,South America,2024-11-02,2,269.28
+1830,Shoes,137,39,53,Male,Asia,2023-03-02,2,167.14
+1831,Apparel,222,16,59,Female,North America,2024-09-25,3,559.4399999999999
+1832,Accessories,260,33,54,Female,South America,2023-02-20,4,696.8
+1833,Apparel,118,15,39,Male,Asia,2024-02-07,2,200.6
+1834,Accessories,209,37,59,Female,South America,2023-01-05,3,395.01
+1835,Shoes,221,1,29,Female,Europe,2024-04-10,1,218.79
+1836,Apparel,242,1,59,Male,Asia,2024-08-26,3,718.74
+1837,Apparel,136,25,30,Male,Asia,2024-11-12,1,102.0
+1838,Accessories,150,12,28,Female,Asia,2024-06-17,3,396.0
+1839,Shoes,57,30,33,Male,North America,2024-02-09,4,159.6
+1840,Apparel,126,33,25,Male,North America,2024-05-27,2,168.83999999999997
+1841,Shoes,249,38,57,Female,North America,2024-10-06,4,617.52
+1842,Apparel,298,2,57,Male,Europe,2023-08-21,3,876.12
+1843,Shoes,136,7,19,Female,Europe,2024-06-07,2,252.95999999999998
+1844,Accessories,92,22,47,Female,Asia,2023-12-12,1,71.76
+1845,Apparel,178,13,47,Female,Europe,2023-02-15,3,464.58
+1846,Apparel,158,26,29,Female,South America,2024-06-29,2,233.84
+1847,Shoes,228,28,27,Female,Asia,2023-03-19,1,164.16
+1848,Shoes,201,38,28,Male,Asia,2024-12-30,1,124.62
+1849,Apparel,276,38,32,Male,South America,2023-03-14,4,684.48
+1850,Accessories,201,0,33,Male,Asia,2023-09-06,3,603.0
+1851,Shoes,66,16,34,Male,Europe,2023-02-16,1,55.44
+1852,Shoes,182,29,43,Female,North America,2023-05-01,2,258.44
+1853,Shoes,197,12,19,Female,South America,2023-08-02,1,173.36
+1854,Apparel,70,20,29,Male,Europe,2023-08-27,1,56.0
+1855,Apparel,281,18,43,Female,South America,2023-02-25,4,921.6800000000001
+1856,Apparel,107,18,40,Male,South America,2023-12-16,4,350.96000000000004
+1857,Apparel,208,24,35,Male,Asia,2023-04-17,2,316.16
+1858,Accessories,159,21,49,Male,Asia,2023-02-17,4,502.44
+1859,Accessories,277,30,55,Female,Europe,2024-07-26,1,193.89999999999998
+1860,Apparel,188,16,20,Female,South America,2023-12-03,1,157.92
+1861,Accessories,229,22,55,Female,Asia,2023-01-26,4,714.48
+1862,Shoes,192,31,20,Female,Asia,2023-09-14,1,132.48
+1863,Shoes,260,9,47,Male,South America,2023-01-08,1,236.6
+1864,Shoes,184,9,18,Female,Europe,2024-09-16,2,334.88
+1865,Apparel,292,35,47,Female,Europe,2023-09-10,4,759.2
+1866,Shoes,77,7,49,Female,South America,2024-11-22,1,71.61
+1867,Accessories,100,19,45,Male,Europe,2024-12-19,4,324.0
+1868,Apparel,284,31,38,Male,Asia,2023-10-30,2,391.91999999999996
+1869,Accessories,235,13,30,Female,South America,2024-09-30,4,817.8
+1870,Shoes,54,27,44,Female,Asia,2023-02-25,1,39.42
+1871,Shoes,54,23,53,Female,North America,2024-12-26,4,166.32
+1872,Shoes,143,14,24,Female,North America,2024-06-09,1,122.98
+1873,Apparel,295,21,39,Male,Europe,2024-04-18,1,233.05
+1874,Accessories,145,29,27,Female,North America,2023-01-28,1,102.94999999999999
+1875,Apparel,57,3,56,Female,Asia,2023-03-19,2,110.58
+1876,Apparel,113,12,32,Female,North America,2023-08-04,4,397.76
+1877,Shoes,187,22,32,Male,Asia,2024-01-21,2,291.72
+1878,Apparel,87,7,21,Male,Europe,2023-12-31,4,323.64
+1879,Apparel,160,17,49,Female,Europe,2024-10-27,2,265.59999999999997
+1880,Shoes,273,11,40,Female,Asia,2024-06-09,3,728.91
+1881,Apparel,161,30,23,Female,North America,2024-11-29,1,112.69999999999999
+1882,Shoes,269,13,41,Female,Europe,2023-11-08,1,234.03
+1883,Shoes,130,33,37,Female,South America,2023-01-07,2,174.2
+1884,Shoes,272,17,54,Male,Europe,2023-01-03,3,677.28
+1885,Shoes,185,33,37,Male,North America,2024-09-14,1,123.94999999999999
+1886,Apparel,153,10,29,Male,South America,2023-12-29,4,550.8000000000001
+1887,Shoes,202,11,50,Female,North America,2024-05-22,2,359.56
+1888,Shoes,122,14,45,Male,Asia,2023-10-01,1,104.92
+1889,Apparel,243,30,25,Male,South America,2024-05-20,1,170.1
+1890,Apparel,256,28,18,Male,North America,2023-01-15,2,368.64
+1891,Accessories,227,25,54,Female,South America,2023-07-11,2,340.5
+1892,Apparel,244,17,39,Female,North America,2024-09-22,4,810.0799999999999
+1893,Apparel,98,31,23,Male,South America,2024-04-29,4,270.47999999999996
+1894,Accessories,85,21,38,Female,North America,2023-01-28,1,67.15
+1895,Apparel,175,37,49,Male,Asia,2024-12-14,1,110.25
+1896,Apparel,117,16,52,Male,South America,2023-02-08,2,196.56
+1897,Apparel,127,22,32,Male,South America,2023-09-30,1,99.06
+1898,Apparel,154,23,22,Male,South America,2023-08-19,1,118.58
+1899,Accessories,218,7,23,Female,South America,2023-03-27,2,405.47999999999996
+1900,Apparel,266,5,42,Female,Asia,2024-04-18,1,252.7
+1901,Apparel,171,4,57,Female,South America,2023-05-06,1,164.16
+1902,Accessories,168,28,46,Female,Europe,2024-06-20,3,362.88
+1903,Shoes,239,27,24,Male,Asia,2023-05-25,4,697.88
+1904,Accessories,163,10,57,Female,Europe,2024-06-08,2,293.40000000000003
+1905,Shoes,59,0,30,Male,South America,2023-07-31,3,177.0
+1906,Accessories,198,18,55,Female,North America,2023-01-25,4,649.44
+1907,Accessories,213,8,35,Female,Europe,2024-08-02,4,783.84
+1908,Apparel,189,26,19,Female,South America,2024-01-29,4,559.4399999999999
+1909,Shoes,140,33,25,Male,Europe,2023-03-08,3,281.4
+1910,Apparel,281,3,28,Male,South America,2023-08-21,3,817.7099999999999
+1911,Shoes,51,35,50,Male,South America,2023-04-19,4,132.6
+1912,Accessories,167,17,55,Male,South America,2023-05-26,1,138.60999999999999
+1913,Accessories,62,14,44,Female,North America,2023-04-21,1,53.32
+1914,Shoes,230,12,37,Male,Europe,2023-08-16,3,607.2
+1915,Apparel,209,18,29,Male,Asia,2023-04-21,3,514.14
+1916,Apparel,144,5,48,Female,Asia,2024-04-14,3,410.4
+1917,Apparel,193,11,44,Female,Asia,2023-02-03,4,687.08
+1918,Apparel,81,36,49,Male,Asia,2024-09-14,1,51.84
+1919,Accessories,81,16,27,Female,South America,2024-01-04,3,204.12
+1920,Accessories,173,22,20,Male,Europe,2024-08-17,3,404.82
+1921,Accessories,275,25,44,Female,Europe,2024-07-07,2,412.5
+1922,Accessories,60,28,52,Male,North America,2024-02-29,4,172.79999999999998
+1923,Accessories,59,32,48,Male,Europe,2024-09-04,2,80.24
+1924,Apparel,64,26,32,Male,Europe,2024-06-01,1,47.36
+1925,Apparel,66,24,33,Male,Europe,2024-11-22,2,100.32000000000001
+1926,Apparel,217,9,30,Male,North America,2023-10-09,2,394.94
+1927,Apparel,195,22,52,Female,Asia,2023-11-16,2,304.2
+1928,Accessories,232,20,28,Male,Europe,2024-03-18,4,742.4000000000001
+1929,Accessories,250,20,38,Male,North America,2023-11-11,1,200.0
+1930,Accessories,202,12,28,Male,North America,2024-01-12,2,355.52
+1931,Shoes,281,36,47,Male,South America,2023-10-16,4,719.36
+1932,Apparel,108,32,52,Male,North America,2024-03-12,1,73.44
+1933,Apparel,127,23,39,Female,Asia,2024-10-23,3,293.37
+1934,Accessories,173,10,55,Female,Europe,2023-10-04,2,311.40000000000003
+1935,Apparel,299,16,48,Male,North America,2024-12-10,1,251.16
+1936,Apparel,266,3,31,Female,Asia,2024-08-04,2,516.04
+1937,Accessories,163,24,41,Male,North America,2024-05-17,3,371.64
+1938,Shoes,71,29,49,Female,North America,2024-09-15,1,50.41
+1939,Shoes,293,8,53,Female,North America,2024-05-30,4,1078.24
+1940,Shoes,207,20,49,Male,North America,2023-12-16,1,165.60000000000002
+1941,Accessories,261,19,32,Female,North America,2024-03-21,4,845.6400000000001
+1942,Apparel,262,18,52,Female,Asia,2023-12-16,1,214.84
+1943,Accessories,221,18,20,Male,Europe,2024-08-29,4,724.8800000000001
+1944,Accessories,81,11,33,Male,Europe,2024-10-25,3,216.27
+1945,Apparel,228,36,22,Female,Europe,2023-05-17,3,437.76
+1946,Shoes,223,16,38,Female,Europe,2023-08-31,3,561.9599999999999
+1947,Shoes,162,36,27,Female,Asia,2024-06-26,1,103.68
+1948,Accessories,169,38,36,Male,South America,2023-02-09,3,314.34
+1949,Shoes,198,27,42,Female,South America,2023-08-17,2,289.08
+1950,Accessories,276,34,21,Female,Asia,2024-07-01,3,546.4799999999999
+1951,Accessories,171,17,46,Female,Asia,2023-08-11,4,567.72
+1952,Apparel,81,13,36,Male,North America,2023-01-06,4,281.88
+1953,Apparel,271,34,19,Male,North America,2023-11-18,4,715.4399999999999
+1954,Apparel,168,6,27,Male,North America,2024-04-12,1,157.92
+1955,Accessories,88,12,42,Male,Europe,2023-03-16,2,154.88
+1956,Apparel,290,17,37,Female,North America,2023-01-04,3,722.0999999999999
+1957,Shoes,61,36,36,Male,South America,2024-10-07,2,78.08
+1958,Shoes,282,12,40,Female,Europe,2023-04-28,2,496.32
+1959,Accessories,224,35,41,Female,North America,2024-08-28,4,582.4
+1960,Accessories,67,30,28,Female,Europe,2024-05-18,4,187.6
+1961,Apparel,198,1,51,Female,South America,2024-07-27,4,784.08
+1962,Accessories,190,15,45,Male,North America,2024-03-16,1,161.5
+1963,Accessories,198,8,22,Male,South America,2023-07-13,2,364.32
+1964,Shoes,175,8,22,Male,South America,2024-12-15,2,322.0
+1965,Shoes,185,37,38,Male,South America,2024-01-27,1,116.55
+1966,Apparel,95,10,29,Male,North America,2023-01-26,1,85.5
+1967,Accessories,153,21,21,Female,Asia,2024-03-10,1,120.87
+1968,Accessories,287,32,59,Male,North America,2023-06-22,2,390.31999999999994
+1969,Shoes,184,35,37,Male,South America,2023-10-27,2,239.20000000000002
+1970,Accessories,200,22,55,Male,North America,2024-10-06,4,624.0
+1971,Shoes,285,33,42,Male,South America,2023-11-22,4,763.8
+1972,Apparel,273,8,31,Female,Asia,2024-02-14,2,502.32000000000005
+1973,Shoes,252,23,28,Female,Europe,2023-04-28,4,776.16
+1974,Accessories,135,7,49,Female,Asia,2024-12-24,1,125.55
+1975,Apparel,199,6,28,Female,Asia,2023-08-13,3,561.18
+1976,Shoes,284,35,35,Female,Europe,2024-06-15,4,738.4
+1977,Shoes,138,17,44,Male,North America,2023-04-23,2,229.07999999999998
+1978,Apparel,71,2,35,Female,Europe,2023-05-20,4,278.32
+1979,Apparel,141,27,40,Female,North America,2024-07-12,4,411.71999999999997
+1980,Shoes,78,5,28,Female,North America,2023-01-01,4,296.4
+1981,Accessories,62,20,38,Male,South America,2023-03-31,3,148.8
+1982,Shoes,259,27,22,Male,South America,2024-10-15,1,189.07
+1983,Apparel,51,39,40,Female,Europe,2023-11-16,2,62.22
+1984,Shoes,78,0,58,Male,Asia,2024-07-03,3,234.0
+1985,Apparel,262,35,42,Male,Europe,2023-05-19,2,340.6
+1986,Apparel,256,20,58,Female,North America,2024-05-25,2,409.6
+1987,Accessories,229,34,27,Male,South America,2023-09-16,2,302.28
+1988,Apparel,76,12,39,Male,Europe,2024-11-03,3,200.64000000000001
+1989,Apparel,99,9,36,Male,Europe,2024-11-20,1,90.09
+1990,Accessories,144,9,18,Female,South America,2023-01-10,2,262.08
+1991,Apparel,256,12,24,Female,South America,2023-09-18,1,225.28
+1992,Accessories,292,36,21,Female,South America,2024-10-11,1,186.88
+1993,Accessories,200,37,18,Male,North America,2023-06-21,4,504.0
+1994,Apparel,137,23,32,Female,South America,2023-01-13,3,316.47
+1995,Apparel,93,1,57,Male,Asia,2023-06-17,3,276.21
+1996,Shoes,254,21,29,Male,Europe,2024-10-03,4,802.64
+1997,Accessories,71,16,39,Male,South America,2024-08-18,4,238.56
+1998,Shoes,220,35,39,Female,South America,2023-11-17,1,143.0
+1999,Apparel,214,13,34,Female,North America,2023-11-15,2,372.36
+2000,Shoes,238,9,46,Female,North America,2024-09-04,3,649.74
